@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af3cfc3a.chunk.css",
+    "main.js": "/static/js/main.c08ee277.chunk.js",
+    "main.js.map": "/static/js/main.c08ee277.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.23cbf007.js",
+    "runtime-main.js.map": "/static/js/runtime-main.23cbf007.js.map",
+    "static/js/2.79af605e.chunk.js": "/static/js/2.79af605e.chunk.js",
+    "static/js/2.79af605e.chunk.js.map": "/static/js/2.79af605e.chunk.js.map",
+    "static/js/3.dabdb02c.chunk.js": "/static/js/3.dabdb02c.chunk.js",
+    "static/js/3.dabdb02c.chunk.js.map": "/static/js/3.dabdb02c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.af3cfc3a.chunk.css.map": "/static/css/main.af3cfc3a.chunk.css.map",
+    "static/js/2.79af605e.chunk.js.LICENSE.txt": "/static/js/2.79af605e.chunk.js.LICENSE.txt",
+    "static/media/Arrow.3e275e03.svg": "/static/media/Arrow.3e275e03.svg",
+    "static/media/Transfer.c4abf18d.png": "/static/media/Transfer.c4abf18d.png",
+    "static/media/Voyr1.3dbea3d6.png": "/static/media/Voyr1.3dbea3d6.png",
+    "static/media/aboutImg.b0166338.png": "/static/media/aboutImg.b0166338.png",
+    "static/media/fallFest.04c43e09.png": "/static/media/fallFest.04c43e09.png",
+    "static/media/linkedin-filled.a9848b64.svg": "/static/media/linkedin-filled.a9848b64.svg",
+    "static/media/reactLogo.6f095414.svg": "/static/media/reactLogo.6f095414.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23cbf007.js",
+    "static/js/2.79af605e.chunk.js",
+    "static/css/main.af3cfc3a.chunk.css",
+    "static/js/main.c08ee277.chunk.js"
+  ]
+}
